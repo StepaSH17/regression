@@ -3,7 +3,12 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+            <file>file:/Users/o/NetBeansProjects/regression/src/regression/Dim2Regression.java</file>
             <file>file:/Users/o/NetBeansProjects/regression/src/regression/Regression.java</file>
+            <file>file:/Users/o/NetBeansProjects/regression/src/regression/MultiVariableRegression.java</file>
+            <file>file:/Users/o/NetBeansProjects/regression/src/regression/MathS.java</file>
+            <file>file:/Users/o/NetBeansProjects/regression/src/regression/SimpleRPlot.java</file>
+            <file>file:/Users/o/NetBeansProjects/regression/src/regression/SimpleRegression.java</file>
         </group>
     </open-files>
 </project-private>
